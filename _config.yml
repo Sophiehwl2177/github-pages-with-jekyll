@@ -2,7 +2,7 @@ theme: minima
 title: moi-journal
 author: Sophiehwl2177
 email: Sophiehwl2177@gmail.com
-description: > moi-journal # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
 
 # social links
 twitter_username: sophiehwl2177 # DO NOT include the @ character, or else the build will fail!
